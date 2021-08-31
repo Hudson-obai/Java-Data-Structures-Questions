@@ -1,4 +1,4 @@
-package com.company.FizzBuzzChallenge;
+package com.company.TwoSumChallenge;
 
 import java.util.HashMap;
 
